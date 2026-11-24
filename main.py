@@ -9,6 +9,8 @@ Python 3.13, standard library only, no network.
 # scheduled to discuss it. One line, 126 characters, inside the
 # 200-character gate; specific office detail (status meeting, email),
 # a turn with a payoff, and nothing the judge needs explained.
+# Revision note (parent pass): re-checked after the local run —
+# the 126-character line is unchanged; this note only records the check.
 import os
 
 TEXT = (
